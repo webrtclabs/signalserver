@@ -1,17 +1,16 @@
 {
   "name": "websocket-over-nodejs",
-  "subdomain": "qshsignal.herokuapp.com",
   "preferGlobal": true,
   "version": "0.0.1",
   "author": {
-    "name": "venkateshgajula",
-    "email": "quickstreamingmedia@gmail.com"
+    "name": "Muaz Khan",
+    "email": "muazkh@gmail.com"
   },
-  "description": "WebSocket-over-Nodejs for WebRTC Experiments: https://www.quickstreamingmedia.com",
+  "description": "WebSocket-over-Nodejs for WebRTC Experiments: https://www.webrtc-experiment.com",
   "contributors": [
     {
-      "name": "venkatesh gajula",
-      "email": "quickstreamingmedia@gmail.com"
+      "name": "Muaz Khan",
+      "email": "muazkh@gmail.com"
     }
   ],
   "scripts": {
@@ -43,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/muaz-khan/WebRTC-Experiment/issues"
   },
-  "homepage": "https://quickstreamhost.com",
+  "homepage": "https://github.com/muaz-khan/WebRTC-Experiment",
   "_id": "websocket-over-nodejs@0.0.1",
   "_from": "websocket-over-nodejs@"
 }
