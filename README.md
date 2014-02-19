@@ -1,4 +1,4 @@
-#### [WebSocket over Node.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/websocket-over-nodejs) / [Demo](https://www.webrtc-experiment.com/websocket/)
+#### [WebSocket over Node.js](https://github.com/webrtclabs/signalserver/) / [Demo](https://www.quickstreamhost.com)
 
 This experiment is using **WebSocket over Node.js** for signaling.
 
@@ -20,7 +20,7 @@ node node_modules/websocket-over-nodejs/signaler.js
 
 Otherwise, follow these steps:
 
-1. Download and extract [**ZIP file**](https://github.com/muaz-khan/WebRTC-Experiment/archive/master.zip) of this repository then copy `folder-location`.
+1. Download and extract [**ZIP file**](https://github.com/webrtclabs/signalserver/archive/master.zip) of this repository then copy `folder-location`.
 2. Open **Node.js command prompt**.
 3. Type command `cd folder-location` where `folder-location` can be `C:\websocket-over-nodejs`.
 4. Type `node signaler` to run the node.js server.
@@ -109,10 +109,10 @@ connection.openSignalingChannel = function(config) {
 
 #### Signaling Concepts
 
-Interested to understand WebRTC Signaling Concepts? Read [this document](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/socketio-over-nodejs/Signaling-Concepts.md).
+Interested to understand WebRTC Signaling Concepts? Read [this document](http://quickstreamhost.com/signalserver).
 
 =
 
 #### License
 
-[WebSocket over Node.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/websocket-over-nodejs) is released under [MIT licence](https://webrtc-experiment.appspot.com/licence/) . Copyright (c) 2013 [Muaz Khan](https://plus.google.com/100325991024054712503).
+MIT. Copyright (c) 2014 [Muaz Khan](https://quickstreamhost.com).
