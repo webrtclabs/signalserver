@@ -77,7 +77,7 @@ In `ui.js` files you can find `openSocket` method; or in all libraries; you can 
 
 ```javascript
 // ws://wsnodejs.jit.su:80
-// wss://www.webrtc-experiment.com:8563
+
 
 var SIGNALING_SERVER = 'ws://' + document.domain + ':1338/';
 connection.openSignalingChannel = function(config) {
@@ -115,4 +115,4 @@ Interested to understand WebRTC Signaling Concepts? Read [this document](http://
 
 #### License
 
-MIT. Copyright (c) 2014 [Muaz Khan](https://quickstreamhost.com).
+MIT. Copyright (c) 2014 [webrtclabs](https://quickstreamhost.com).
